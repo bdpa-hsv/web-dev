@@ -1,0 +1,46 @@
+/*
+This is a multi-line comment. You can leave yourself or other developers important information here about this file and what certain lines of code are doing. This will definitely be helpful with group projects.
+*/
+body {
+  background-color: lightblue;
+  text-align: center;
+  background-image: url(images/wakanda.jpg)
+}
+a {
+  /* This changes the styles of links */
+  color:purple;
+  font-weight: bolder;
+}
+img {
+  /* This changes the style of images */
+  border-color: red;
+   border-style: solid;
+   border-width:5px;
+   max-width: 50%;
+}
+li {
+  /* This changes the styles of lists */
+  color:orange;
+  text-align: left;
+}
+div {
+  /* This changes the styles of divs */
+  background-color:black;
+  padding: 15px;
+}
+div p {
+  /* this changes the (p) paragraph tag for divs */
+  color:grey;
+}
+.center {
+  /* This is a class and it is centering items */
+  margin: auto;
+  width: 50%;
+  border: 3px solid blue;
+  padding: 10px;
+}
+#highlights {
+  /* This is an ID and is used to identify an element */
+  background-color: blue;
+  padding:15px;
+}

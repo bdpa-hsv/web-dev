@@ -6,6 +6,10 @@ body {
   text-align: center;
   background-image: url(images/wakanda.jpg)
 }
+h2 {
+  color: yellow;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 a {
   /* This changes the styles of links */
   color:purple;
